@@ -186,21 +186,21 @@ body{
 }
 
 .folder-green{
-    background-image: url(/Resources/greenfolder.png);
+    background-image: url(./Resources/greenfolder.png);
     background-size: contain;
     background-position:top center;
     background-repeat: no-repeat; 
 }
 
 .folder-blue{
-    background-image: url(/Resources/bluefolder.png);
+    background-image: url(./Resources/bluefolder.png);
     background-size: contain;
     background-position:top center;
     background-repeat: no-repeat;
 }
 
 .folder-yellow{
-    background-image: url(/Resources/yellowfolder.png);
+    background-image: url(./Resources/yellowfolder.png);
     background-size: contain;
     background-position:top center;
     background-repeat: no-repeat;
