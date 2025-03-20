@@ -1,0 +1,55 @@
+body{
+    font-family: "poppins", sans-serif;
+    background-color: white;
+}
+
+header{
+    background-color: #0B3612;
+}
+
+.title{
+    padding: 5%;
+    background-color: green;
+    background-image: url("https://feudiliman.edu.ph/feudiliman/assets/img/campus_life/ialap_header_photo.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+    filter: grayscale(50%);
+    h1{
+        font-size: 60px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+    }
+
+}
+
+.state{
+    h2{
+        padding: 20px;
+        text-align: center;
+    }
+}
+
+.card-container{
+    padding: 2.5%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    img{
+        width: auto;
+        height: 300px;
+        margin: 20px;
+    }
+    .unity, .adobe{
+        height: 200px;
+    }
+    
+    h4{
+        text-align: center;
+    }
+}
+
+footer{
+    background-color:#bde0bd;
+}
